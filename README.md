@@ -1,4 +1,6 @@
-# AKM Cyber Corp.
+# AKM Cyber Corp
+![logo](images/AKMCyberLogo.png)
+
 ## AKM Endpoint Software Repository
 - Point-to-Point Endpoint
 - Multipoint Endpoint
